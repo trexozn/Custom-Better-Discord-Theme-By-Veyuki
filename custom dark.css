@@ -1,0 +1,27 @@
+/**
+  * @name Custom
+  * @author Veyuki
+  * @version Custom Theme
+  * @description Highly customizable theme for Discord
+  * @authorId 274055838396841984
+  * @authorLink https://www.instagram.com/trexozn/
+  * @source https://github.com/trexozn/Custom-Better-Discord-Theme-By-Veyuki
+  * @invite hf4BZJN68E
+*/
+
+@import url('https://trexozn.github.io/Custom-Better-Discord-Theme-By-Veyuki2/');
+
+:root {
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #302f2f;
+  --darkplus-sec: #bb86fc;
+  --darkplus-links: #cdaef3;
+  --darkplus-home-icon: url(https://media.discordapp.net/attachments/843366810895384586/1126931943620092085/de2670f884f7ab652ec7c5eb7535f98e.jpg);
+ --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+  --darkplus-emoji-picker-color: 210deg;
+}
